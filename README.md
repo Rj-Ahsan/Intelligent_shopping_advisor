@@ -6,7 +6,7 @@ The system uses **LangGraph and LangChain** to orchestrate multiple AI agents th
 
 For example, a user can ask:
 
-> **"Best smartphone under 100,000 PKR with a good camera and battery?"**
+> **"Gaming Laptop Pro 15"**
 
 The system processes the request, identifies the user's requirements, evaluates available products, and provides an intelligent recommendation.
 
